@@ -13,5 +13,5 @@ int main()
  scanf("%d,&y);
  int z=x+y
  printf("Sum of two numbers is: %d",z);
- getch();
+ getch(); // to hold screen
 }
