@@ -3,7 +3,7 @@
 
 int main()
 { 
- clrscr();
+ clrscr(); //using software turbo c++
  int x;
  int y;
  printf("Enter the first number: ");
